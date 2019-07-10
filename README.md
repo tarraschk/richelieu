@@ -50,3 +50,7 @@ Well, if this project has enough success, we will conduct the same operation for
 This project is licensed under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+### Cover picture
+
+Source Pixabay: https://pixabay.com/illustrations/password-keyword-codeword-solution-866979/
